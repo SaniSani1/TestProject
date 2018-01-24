@@ -3,7 +3,7 @@ package com.sani.test;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("Hello GITHUB");
+		System.out.println("changed from stuff");
 
 	}
 
